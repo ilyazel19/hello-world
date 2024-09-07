@@ -1,11 +1,14 @@
-[custom_labels."customLabel1"]
+[config]
+enable_custom_labels = true
+
+[custom_labels."customLabe1"]
 description = "This is customLabel1"
 color = "#4287f5"
 
-[custom_labels."customLabel2"]
+[custom_labels."customLabe2"]
 description = "This is customLabel2"
 color = "#71eb99"
 
-[custom_labels."customLabel3"]
+[custom_labels."customLabe3"]
 description = "This is customLabel3"
 color = "#ebde71"
