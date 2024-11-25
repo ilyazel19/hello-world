@@ -4,7 +4,7 @@ color = "#4287f5"
 
 [custom_labels."customLabel2"]
 description = "This is customLabel2"
-color = "#71eb98"
+color = "#71eb97"
 
 [custom_labels."customLabel3"]
 description = "This is customLabel3"
